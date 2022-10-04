@@ -2,7 +2,7 @@
 name: Bug Template
 about: 버그용 이슈 템플릿입니다.
 title: 명사형으로 제목 작성
-labels: ":bug: bug"
+labels: ":bug: 버그"
 assignees: ''
 
 ---
